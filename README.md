@@ -8,9 +8,24 @@
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-I’m a passionate and dedicated **undergraduate Computer Science and Engineering student** from Bangladesh. I love solving problems, building creative projects, and exploring the world of software engineering and AI. I am currently seeking **remote internships or job opportunities** where I can meaningfully contribute and grow.
+<table>
+  <tr>
+    <td width="55%">
+      <ul>
+        <li>🎓 I'm an undergraduate student pursuing <strong>Computer Science & Engineering</strong> at <strong>IIUC, Bangladesh</strong></li>
+        <li>💻 Passionate about <strong>AI/ML</strong>, software development & solving real-world problems</li>
+        <li>🧠 Curious about how tech can improve <strong>mental health & education</strong></li>
+        <li>🌍 Looking for <strong>remote internships</strong> or job opportunities in software engineering or AI</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
