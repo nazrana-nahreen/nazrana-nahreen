@@ -40,66 +40,16 @@
 - 📗 **S.S.C. (Science)**  
   *Silver Bells Girls High School, Chittagong*
 
----
-
-## 🚀 Current Roles & Activities
-
-- 🎮 **Game Developer** — *Paradox* (June 2025 – Present)
-- 👩‍💼 **Campus Ambassador** — *Glory Girls Tech Fest, ICT Olympiad Bangladesh*
-- 🎨 **Design Secretary** — *IIUC Female Competitive Programming Society*
-- 🌟 **Campus Innovator Chairperson** — *Bangla Innovator*
-- ✨ **Associate Creative & Design** — *Hult Prize at IIUC*
-- 🛠️ **Former Logistics Secretary** — *IIUC Computer Club*
 
 ---
-
-## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
 - Python – Core, AI/ML scripting, automation
 - C / C++ – Algorithms, structured programming
 - Java (Basic) – OOP and desktop applications
 
-### ⚙️ Tools & Technologies
-- **Git & GitHub** – Version control, collaboration
-- **VS Code** – Primary development IDE
 
-### 🧾 Office & Productivity
-- Microsoft Word, Excel, PowerPoint
 
-### 🎨 Design & Creativity
-- Adobe Photoshop & Illustrator
-- Figma – UI/UX design & prototyping
 
----
 
-## 💼 Soft Skills
-
-- Conflict Resolution
-- Teamwork & Collaboration
-- Active Listening
-- Adaptability & Multitasking
-- Communication & Creativity
-- Time Management & Leadership
-
----
-
-## 🌍 Languages
-
-- 🗣️ **Bangla** – Native  
-- 🗣️ **English** – Fluent
-
----
-
-## 💡 Goals
-
-- 📈 Grow as an AI Engineer & Game Developer
-- 🤝 Collaborate on open-source and tech-for-good projects
-- 📚 Continuously learn and apply new technologies
-
----
-
-> _"Code with compassion, create with purpose."_
-
----
 
